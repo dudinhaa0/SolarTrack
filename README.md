@@ -105,4 +105,7 @@ SolarTrack_Aluno24/
 - Semestre: 4º
 - Professor: Adriano Rosa Mazetto
 
-<img width="818" height="1600" alt="bb69381b-2979-4505-b3d6-66218db9cf7d" src="https://github.com/user-attachments/assets/f61f1ef6-a458-4919-b9d3-e755c5d10c7f" />
+<img width="438" height="654" alt="Captura de tela 2026-11-13 090028" src="https://github.com/user-attachments/assets/200fe575-8c00-46d3-90c8-492d781fabe2" />
+<img width="432" height="658" alt="Captura de tela 2026-11-13 090105" src="https://github.com/user-attachments/assets/7df4c278-b8b5-4441-a23f-937afe7402b7" />
+
+
