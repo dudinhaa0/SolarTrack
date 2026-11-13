@@ -104,3 +104,5 @@ SolarTrack_Aluno24/
 - Disciplina: PPDM2
 - Semestre: 4º
 - Professor: Adriano Rosa Mazetto
+
+<img width="818" height="1600" alt="bb69381b-2979-4505-b3d6-66218db9cf7d" src="https://github.com/user-attachments/assets/f61f1ef6-a458-4919-b9d3-e755c5d10c7f" />
